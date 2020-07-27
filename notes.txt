@@ -1,0 +1,10 @@
+-allow client to register
+-move it to different controller
+change name step1, step2, step3
+
+//user exists
+//no user but contact
+
+PostClientSignup
+
+add endpoint info under the comments of the story 
